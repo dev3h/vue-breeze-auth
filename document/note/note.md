@@ -1,0 +1,1 @@
+- Remember add `axios.defaults.withCredentials = true` to `axios.js` to send cookie to server
